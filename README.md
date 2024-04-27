@@ -1,5 +1,7 @@
 # Chatbot leveraging RAG for Financial Document (10Q, 10K) Summarization
 
+> Check other similar LLM projects at https://github.com/kHarshit/llm-projects.
+
 Chatbot leveraging Retrieval Augmented Generation (RAG) for Financial Document Summarization
 
 ![](./assets/rag_chatbot_10q.png)
